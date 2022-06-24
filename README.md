@@ -11,7 +11,7 @@
 - 💬 Ask me about **Android, Kotlin, Clean code, ARCore, SOLID and Fuchsia!**
 - 😄 Pronouns: REHAN
 - ⚡ Fun fact: Love to code from Mountains and Beatches 😜
-- 📫 How to reach me **chrehansarwar@gmail.com**
+- 📫 Feel free to catch me at **chrehansarwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
